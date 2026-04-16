@@ -1,21 +1,21 @@
-## 🕒 UNI TIME
+## UNI TIME
 
 **Uni Time** is a productivity application designed to help students and job seekers manage their assignments and job applications efficiently.
 
-### 🚀 Features
+### Features
 
 - Track assignments with due dates
 - Monitor job applications with status updates
 - Clean and intuitive GUI using PyQt6
 - Data stored locally using SQLite
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Programming Language**: Python 3.0 
 - **GUI Framework**: PyQt6  
 - **Database**: SQLite  
 
-### 📸 Screenshots  
+### Screenshots  
 
 #### TASK PAGE
 ![Alt Text](Assets/task_page.png)
@@ -24,7 +24,7 @@
 ![Alt Text](Assets/job_portal.png)
 
 
-### 🔧 Installation
+### Installation
 
 1. Clone this repository:
 
@@ -40,7 +40,7 @@
    pip install -r requirements.txt
    ```
 
-### 📂 Project Structure
+### Project Structure
 
 ```plaintext
 uni_time/
@@ -57,10 +57,10 @@ uni_time/
 
 ```
 
-### 🤝 Contributing
+### Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-### 📄 License
+### License
 
 This project is licensed under the [MIT License](LICENSE).
